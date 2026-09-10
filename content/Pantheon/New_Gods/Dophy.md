@@ -1,0 +1,47 @@
+---
+publish: true
+created: 2026-09-10T19:53:27.081Z
+modified: 2026-09-10T19:53:27.081Z
+tags:
+  - deity
+  - pantheon
+---
+
+# ✨ Dophy
+
+_The Fate-Spinner_
+**Status:** #draft / #reviewed
+
+## Identity
+
+- **Generation:** New God
+- **Domain(s):** Divination
+- **Symbol:** A single unblinking eye centered on a loom.
+
+## Appearance & Manifestation
+
+Dophy is part woman, part spider, built like a many-armed weaver. At her core is the face of the human woman she used to be, still young, still recognizable. Her limbs are violet glass, catching light strangely, somewhere between solid and see-through. Instead of a lower body she has a huge spinning apparatus of ivory and brass, constantly turning out golden thread, each strand a living being's timeline. She has twelve thin arms, each holding a different tool: silver shears to cut a life short, a golden spindle to start a new one, diamond lenses to check the knots in the weave. Her original eyes are gone, replaced by two swirling white voids. Dozens of smaller eyes are scattered along her glass limbs, each one watching a different possible future.
+
+## Personality & Nature
+
+Carries herself like someone who's seen the ending of every conversation before it happens, calm and a little tired. Still remembers being mortal, and it shows: she treats every thread she cuts as a real loss, even when it's necessary. Values order and pattern, and gets uneasy around anything that threatens to unravel a timeline before its natural end. Because she can already see how most things turn out, she rarely bothers with warnings, she just does what the weave requires and moves on.
+
+## Worshippers
+
+- **Religion/Church:** [[Pantheon/Religions/]]
+- **Cults:** [[Pantheon/Cults/]]
+- **Known Temples:** [[Political_Divisions/Kingdom_of_Yeripia/Dushua/Egnatia/The_Silver_Pinnacle]] in [[Political_Divisions/Kingdom_of_Yeripia/Dushua/Egnatia/Egnatia]] — a healing-services temple, per Shane. _(Note: healing services are an unusual fit for Dophy's Divination domain as currently written; recorded as given, not treated as a conflict to resolve.)_
+
+## Origins
+
+Dophy was once a mortal human woman before becoming a god, her original face is still visible at her core. _(Details on how this transformation happened are still to be fleshed out.)_
+
+## Module Appearances
+
+| Module | Status | Key Details |
+|--------|--------|-------------|
+| | | |
+
+---
+
+\*Tags: #deity #pantheon*
