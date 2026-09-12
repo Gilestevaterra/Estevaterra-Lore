@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-09T18:02:55.658Z
-modified: 2026-09-10T19:50:40.928Z
+modified: 2026-09-12T20:28:23.253Z
 ---
 
 # 🏛️ Pantheon Overview
@@ -27,7 +27,7 @@ The world's landmasses have been divided among the six by physical geography (co
 - [[Pantheon/Old_Gods/Vegran]] — western [[Political_Divisions/Kingdom_of_Yeripia/Kingdom_of_Yeripia|Yeripia]] (chosen to include [[Political_Divisions/Kingdom_of_Yeripia/Preopia/Gidor_County/Barony_of_Mag_Beoga/Lostshade/Lostshade|Lostshade]])
 - [[Pantheon/Old_Gods/Mercaraz]] — eastern Yeripia and [[Political_Divisions/Breotrasseon|Breotrasseon]]
 - [[Pantheon/Old_Gods/Haviktla]] — [[Geography/Aecrudia/Aecrudia|Aecrudia]] and the [[Political_Divisions/Kingdom_of_Yahan|Kingdom of Yahan]]
-- [[Pantheon/Old_Gods/Avaretal]] — the [[Geography/Tisver_Ocean/Slaecaea_Islands|Slaecaea Islands]], [[Geography/Isle_of_Vraediris/Isle_of_Vraediris|Isle of Vraediris]], [[Geography/Sea_of_Leeronto/Haidonia|Haidonia]], and the scattered western islands
+- [[Pantheon/Old_Gods/Avaretal]] — the [[Slaecaea_Islands|Slaecaea Islands]], [[Vraediris|Isle of Vraediris]], [[Geography/Sea_of_Leeronto/Haidonia|Haidonia]], and the scattered western islands
 
 Over the centuries of the Old Gods' rule, their blood (the literal source of their creative and magical power) slowly seeped into the world. A drop here and there from acts of creation accumulated in the soil over generations, forming natural low-magic concentrations that entered the food and water supply and began changing the humans and animals that consumed it. Dwarves and elves are the most visible result of this slow contamination. Less intelligent creatures were affected too, producing things like dire wolves and owlbears that arose on their own rather than through direct divine creation. At the time of the world's founding, humans were the only sentient species, living alongside ordinary Earth-like beasts, everything else described above emerged gradually, becoming less rare as the centuries passed but never common while the Old Gods still ruled directly.
 

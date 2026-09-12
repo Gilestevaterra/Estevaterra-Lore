@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-12T12:26:51.732Z
-modified: 2026-09-12T12:26:51.732Z
+modified: 2026-09-12T20:22:30.234Z
 tags:
   - geographic-feature
 ---
@@ -44,7 +44,7 @@ _All creatures linked to this feature are listed automatically below._
 
 ## History
 
-Not detailed beyond its role in [[Modules/For_the_Kingdom/For_the_Kingdom_Act_3]] and [[Modules/For_the_Kingdom/For_the_Kingdom_Act_4]]: the deep-water port on the cove is where [[Political_Divisions/Kingdom_of_Yeripia/Aprea/Bangola/The_Ashanti|The Ashanti]] launches from on its voyage to [[Geography/Isle_of_Vraediris/Isle_of_Vraediris|the Isle of Vraediris]].
+Not detailed beyond its role in [[Modules/For_the_Kingdom/For_the_Kingdom_Act_3]] and [[Modules/For_the_Kingdom/For_the_Kingdom_Act_4]]: the deep-water port on the cove is where [[Political_Divisions/Kingdom_of_Yeripia/Aprea/Bangola/The_Ashanti|The Ashanti]] launches from on its voyage to [[Vraediris|the Isle of Vraediris]].
 
 ## Module Appearances
 

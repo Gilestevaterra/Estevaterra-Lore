@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-10T19:53:24.841Z
-modified: 2026-09-10T19:53:24.841Z
+modified: 2026-09-12T20:28:23.248Z
 tags:
   - deity
   - pantheon
@@ -33,7 +33,7 @@ Volatile and quick to burn through her own moods, calm one moment and raging the
 
 ## Canonical Lands
 
-Avaretal's canonical lands are the [[Geography/Tisver_Ocean/Slaecaea_Islands|Slaecaea Islands]], the [[Geography/Isle_of_Vraediris/Isle_of_Vraediris|Isle of Vraediris]], [[Geography/Sea_of_Leeronto/Haidonia|Haidonia]], and the small islands scattered through the [[Geography/Tisver_Ocean/Tisver_Ocean|Tisver Ocean]], the [[Geography/Sea_of_Leeronto/Sea_of_Leeronto|Sea of Leeronto]], and the [[Geography/Tisver_Ocean/Rigesonne_Depths|Rigesonne Depths]]. [[Geography/Isle_of_Vraediris/Qalb_Al-Rimal]], on the Isle of Vraediris, falls within her lands: the city's own old gods, cast out once its people learned to wield magic themselves, were her worshippers and servants there.
+Avaretal's canonical lands are the [[Slaecaea_Islands|Slaecaea Islands]], the [[Vraediris|Isle of Vraediris]], [[Geography/Sea_of_Leeronto/Haidonia|Haidonia]], and the small islands scattered through the [[Geography/Tisver_Ocean/Tisver_Ocean|Tisver Ocean]], the [[Geography/Sea_of_Leeronto/Sea_of_Leeronto|Sea of Leeronto]], and the [[Geography/Tisver_Ocean/Rigesonne_Depths|Rigesonne Depths]]. [[Qalb_Al-Rimal]], on the Isle of Vraediris, falls within her lands: the city's own old gods, cast out once its people learned to wield magic themselves, were her worshippers and servants there.
 
 ## Origins
 
@@ -43,7 +43,7 @@ _(New Gods only) How did this god come to exist?_
 
 | Module | Status | Key Details |
 |--------|--------|-------------|
-| [[Modules/For_the_Kingdom/For_the_Kingdom_Act_8]] | #draft | Confirmed as the real Old God tied to [[Geography/Isle_of_Vraediris/Qalb_Al-Rimal]], replacing the superseded [[Pantheon/Gods_of_Qalb_Al-Rimal]] draft's "Voragor the Forgefather" placeholder. |
+| [[Modules/For_the_Kingdom/For_the_Kingdom_Act_8]] | #draft | Confirmed as the real Old God tied to [[Qalb_Al-Rimal]], replacing the superseded [[Pantheon/Gods_of_Qalb_Al-Rimal]] draft's "Voragor the Forgefather" placeholder. |
 
 ---
 

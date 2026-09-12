@@ -1,18 +1,18 @@
 ---
 publish: true
-created: 2026-09-12T12:26:56.377Z
-modified: 2026-09-12T20:28:23.218Z
+created: 2026-09-12T12:26:56.110Z
+modified: 2026-09-12T12:26:56.110Z
 tags:
   - geographic-feature
 ---
 
-# ⛰️ Tisver Ocean
+# ⛰️ Slaecaea Islands
 
 **Status:** #draft
 
 ## At a Glance
 
-- **Type:** Ocean
+- **Type:** Island Chain
 - **Size/Scale:**
 - **Climate:**
 
@@ -24,17 +24,13 @@ _All maps depicting this feature are listed automatically below — use [[_Templ
 
 ## Description
 
-The large ocean covering the southwest of Estevaterra, bordered by [[Political_Divisions/Crucaea|Crucaea]] to the north and the [[Slaecaea_Islands|Slaecaea Islands]] to the south. The [[Vraediris|Isle of Vraediris]] and a scatter of other small islands sit within it.
-
-## Sub-Features
-
-_Everything nested under this feature's own folder — mountain ranges, rivers, lakes, and other elements contained within it. Auto-lists any file placed in this folder (or a deeper subfolder of it), this overview page excluded._
-
-- [[Geography/Tisver_Ocean/Rigesonne_Depths.md|Rigesonne_Depths]]
+A forested island chain in the far southwest of Estevaterra, within the Tisver Ocean, southwest of [[Political_Divisions/Crucaea|Crucaea]] and the scattered islands near the Rigesonne Depths.
 
 ## Political Divisions Overlapping
 
 _All political divisions linked to this feature are listed automatically below._
+
+- [[Political_Divisions/Crucaea.md|Crucaea]]
 
 ## Notable Locations Within
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-12T12:26:56.950Z
-modified: 2026-09-12T12:26:56.950Z
+modified: 2026-09-12T20:28:23.239Z
 tags:
   - map
 ---
@@ -28,8 +28,8 @@ _Link every political division, geographic feature, settlement, or location show
 - [[Political_Divisions/Crucaea]]
 - [[Political_Divisions/Kingdom_of_Yahan]]
 - [[Political_Divisions/Breotrasseon]]
-- [[Geography/Isle_of_Vraediris/Isle_of_Vraediris]]
-- [[Geography/Tisver_Ocean/Slaecaea_Islands]]
+- [[Vraediris]]
+- [[Slaecaea_Islands]]
 - [[Geography/Aecrudia/Aecrudia]]
 - [[Geography/Sea_of_Leeronto/Haidonia]]
 - [[Geography/Tisver_Ocean/Tisver_Ocean]]
