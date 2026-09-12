@@ -1,7 +1,8 @@
 ---
 publish: true
+title: World of Estevaterra
 created: 2026-09-12T16:32:51.825Z
-modified: 2026-09-12T17:54:43.524Z
+modified: 2026-09-12T18:05:48.981Z
 ---
 
 # 🌍 World Overview
