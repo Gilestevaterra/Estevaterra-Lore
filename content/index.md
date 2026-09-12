@@ -1,18 +1,12 @@
 ---
 publish: true
 created: 2026-09-12T16:32:51.825Z
-modified: 2026-09-12T17:53:02.932Z
+modified: 2026-09-12T17:54:43.524Z
 ---
 
 # 🌍 World Overview
 
 **Status:** #draft / #reviewed
-
-## At a Glance
-
-- **World Name:** Estevaterra
-- **Tone & Themes:** Dark, Moral Conflicts, Humorous, Class Struggle
-- **Central Conflict:** Estevaterra is a world going through change. It was once a low magic world where power was with the gods and those they bestowed it upon. Isolated from other planes. That magic leaked into the world, revealing it to the greater universe. Like cracking open Pandora's box, it could not be undone. People from all walks of life now struggle to adjust to a world where anything is possible, especially when they do not understand just what the price may be.
 
 ## Cosmology
 
