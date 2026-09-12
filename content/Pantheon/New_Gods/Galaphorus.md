@@ -1,0 +1,46 @@
+---
+publish: true
+created: 2026-09-10T19:53:27.349Z
+modified: 2026-09-10T19:53:27.349Z
+tags:
+  - deity
+  - pantheon
+---
+
+# ✨ Galaphorus
+
+_The Sovereign of Smiles_
+**Status:** #draft / #reviewed
+
+## Identity
+
+- **Generation:** New God
+- **Domain(s):** Enchantment
+- **Symbol:** A smiling mask with ribbons trailing from the eyes.
+
+## Appearance & Manifestation
+
+Galaphorus is a tall, elegant figure, about twelve feet high, with skin like warm marble and proportions so perfect it's hard to look away from him. His face is human but fixed and smooth as porcelain, locked into a wide, charming smile that never quite reaches his amber eyes. Six wings grow from his back, made of shimmering silk ribbons that drift slowly, like they're underwater instead of in air. His robes are liquid velvet, and the color shifts depending on who's looking: one person sees royal purple, another sees the plain linen of someone they lost.
+
+## Personality & Nature
+
+Charming in a way that never quite feels sincere, pleasant on the surface with nothing readable underneath. Values being wanted more than being known, and seems to genuinely enjoy the effect he has on people rather than caring about them individually. Rarely shows anger, preferring flattery and suggestion over force. Mortals who spend too long around him often walk away uneasy without being able to say why, and that reaction seems to please him.
+
+## Worshippers
+
+- **Religion/Church:** [[Pantheon/Religions/]]
+- **Cults:** [[Pantheon/Cults/]]
+
+## Origins
+
+_(New Gods only) How did this god come to exist?_
+
+## Module Appearances
+
+| Module | Status | Key Details |
+|--------|--------|-------------|
+| | | |
+
+---
+
+\*Tags: #deity #pantheon*
