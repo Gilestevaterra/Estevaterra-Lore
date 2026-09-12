@@ -14,10 +14,10 @@ modified: 2026-09-10T19:53:28.762Z
 
 - [[Pantheon/Old_Gods/Avaretal.md|Avaretal]]
 - [[Pantheon/Old_Gods/Faranaha.md|Faranaha]]
-- [[Pantheon/Old_Gods/Haviktla.md|Haviktla]]
 - [[Pantheon/Old_Gods/Mercaraz.md|Mercaraz]]
-- [[Pantheon/Old_Gods/Mgellzir.md|Mgellzir]]
+- [[Pantheon/Old_Gods/Haviktla.md|Haviktla]]
 - [[Pantheon/Old_Gods/Vegran.md|Vegran]]
+- [[Pantheon/Old_Gods/Mgellzir.md|Mgellzir]]
 
 ## New Gods
 
