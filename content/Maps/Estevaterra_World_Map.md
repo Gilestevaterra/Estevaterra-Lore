@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-12T12:26:56.950Z
-modified: 2026-09-12T20:28:23.239Z
+created: 2026-09-13T18:03:22.377Z
+modified: 2026-09-13T18:03:22.377Z
 tags:
   - map
 ---
@@ -30,6 +30,7 @@ _Link every political division, geographic feature, settlement, or location show
 - [[Political_Divisions/Breotrasseon]]
 - [[Vraediris]]
 - [[Slaecaea_Islands]]
+- [[Geography/Kalantawi Islands/Kalantawi_Islands|Kalantawi Islands]]
 - [[Geography/Aecrudia/Aecrudia]]
 - [[Geography/Sea_of_Leeronto/Haidonia]]
 - [[Geography/Tisver_Ocean/Tisver_Ocean]]

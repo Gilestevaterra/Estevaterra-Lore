@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-09T18:03:55.516Z
-modified: 2026-09-12T12:19:52.052Z
+modified: 2026-09-13T18:08:16.815Z
 ---
 
 # 🌍 World Overview
@@ -21,7 +21,7 @@ _How was the world made? What planes, forces, or divine acts shaped it?_
 ## The Pantheon in Brief
 
 Estevaterra is ruled by 8 gods, each with power over one domain of magic. They are not inherently good or evil, lawful or chaotic. They are above such concepts. Seen as saviors by some, cruel despots by others. It is known that they overthrew the old gods over 200 years ago. But no one knows exactly how, or what life was like under the old gods.
-**Full detail**: [[Pantheon/Pantheon_Overview]].
+**Full detail**: [[Pantheon]].
 
 ## Magic in Brief
 
