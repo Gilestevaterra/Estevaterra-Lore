@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-10T19:53:26.741Z
-modified: 2026-09-10T19:53:26.741Z
+created: 2026-09-14T01:09:25.527Z
+modified: 2026-09-14T01:09:25.527Z
 tags:
   - deity
   - pantheon
@@ -28,12 +28,12 @@ Her temperament shifts as often as her body does. Values adaptability above almo
 
 ## Worshippers
 
-- **Religion/Church:** [[Pantheon/Religions/]]
+- **Religion/Church:** [[Pantheon/Religions/The_Thousand_Faces|The Thousand Faces]]
 - **Cults:** [[Pantheon/Cults/]]
 
 ## Origins
 
-_(New Gods only) How did this god come to exist?_
+Before she was Dheerin, she was Nomvula Tideweaver of Aecrudia, and she wasn't alone when she cast out [[Pantheon/Old_Gods/Haviktla]]. Haviktla's blood spilled across open water instead of pooling the way it had for every caster before, and it took two people working together, one holding the wound, one working the Riftspike, to gather enough of it before it scattered into the sea. Nomvula and the woman who would become Xyzdia went into that water as two ordinary people and came out remade in two entirely different directions, which is as close as anyone has come to explaining why the same blood, drawn from the same god at the same moment, produces such different gods. Nomvula's own restlessness in her new form, never settling on one shape for long, is the part of her that some say never really came from Haviktla at all, and was always hers.
 
 ## Module Appearances
 

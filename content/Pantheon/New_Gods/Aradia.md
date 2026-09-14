@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-10T19:53:26.467Z
-modified: 2026-09-10T19:53:26.467Z
+created: 2026-09-14T01:09:26.816Z
+modified: 2026-09-14T01:09:26.817Z
 tags:
   - deity
   - pantheon
@@ -28,12 +28,12 @@ Calm and controlled, and treats death less as an ending and more as a raw materi
 
 ## Worshippers
 
-- **Religion/Church:** [[Pantheon/Religions/]]
+- **Religion/Church:** [[Pantheon/Religions/The_Still_Hall|The Still Hall]]
 - **Cults:** [[Pantheon/Cults/]]
 
 ## Origins
 
-_(New Gods only) How did this god come to exist?_
+Before he was Aradia, he was Fintan Duskmere, one of the many across western Alduria who kept Vegran's worship alive at the scattered shrines built to him. He was the last of the six Kogeros brought the Riftspike to, nine years after Avaretal's Fall, and the ritual drew everything it needed from Vegran's own blood, the same as every casting before it. He drove the Riftspike home, was drenched in Vegran's blood, and the rift tore open and took the god through it clean. What stayed with Fintan afterward, becoming Aradia, was something quieter than what the others carried away: calm, controlled, and precise, as if the care that last casting demanded of him never fully left.
 
 ## Module Appearances
 

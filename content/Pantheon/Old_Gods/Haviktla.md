@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-10T19:53:25.391Z
-modified: 2026-09-10T19:53:25.391Z
+created: 2026-09-14T12:24:30.991Z
+modified: 2026-09-14T12:24:30.991Z
 tags:
   - deity
   - pantheon
@@ -28,12 +28,12 @@ Calm on the surface and dangerous underneath, much like the water she rules. Val
 
 ## Worshippers
 
-- **Religion/Church:** [[Pantheon/Religions/]]
-- **Cults:** [[Pantheon/Cults/]]
+- **Religion/Church:** [[Pantheon/Religions/The_Tidebound_Faith|The Tidebound Faith]] _(defunct, isolated remnant worship survives)_
+- **Cults:** [[Pantheon/Cults/The_Undertow|The Undertow]], [[Pantheon/Cults/Haviktlas_Reckoning|Haviktla's Reckoning]]
 
-## Canonical Lands
+## Territory
 
-Haviktla's canonical lands are [[Geography/Aecrudia/Aecrudia|Aecrudia]] and the [[Political_Divisions/Kingdom_of_Yahan|Kingdom of Yahan]], fronting the [[Geography/Montaumart_Ocean/Montaumart_Ocean|Montaumart Ocean]].
+Haviktla controlled [[Geography/Aecrudia/Aecrudia|Aecrudia]] and the [[Geography/Kalantawi Islands/Kalantawi_Islands|Kalantawi Islands]], fronting the [[Geography/Montaumart_Ocean/Montaumart_Ocean|Montaumart Ocean]].
 
 ## Origins
 

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-10T19:53:25.676Z
-modified: 2026-09-10T19:53:25.677Z
+created: 2026-09-14T12:24:34.012Z
+modified: 2026-09-14T12:24:34.012Z
 tags:
   - deity
   - pantheon
@@ -28,12 +28,12 @@ Proud and territorial, and sees the sky as his alone to rule. Values freedom of 
 
 ## Worshippers
 
-- **Religion/Church:** [[Pantheon/Religions/]]
-- **Cults:** [[Pantheon/Cults/]]
+- **Religion/Church:** [[Pantheon/Religions/The_High_Current|The High Current]] _(defunct, isolated remnant worship survives)_
+- **Cults:** [[Pantheon/Cults/The_Sky-Shedders|The Sky-Shedders]], [[Pantheon/Cults/The_Storm_Talons|The Storm Talons]]
 
-## Canonical Lands
+## Territory
 
-Mercaraz's canonical lands are [[Political_Divisions/Breotrasseon|Breotrasseon]] and the eastern half of the [[Political_Divisions/Kingdom_of_Yeripia/Kingdom_of_Yeripia|Kingdom of Yeripia]], on [[Geography/Alduria/Alduria]]: the portion drained by [[Geography/Alduria/Lake_Douradosa]] and [[Geography/Alduria/Montreva_River]], bounded by [[Geography/Alduria/Ribadouro_Peaks]].
+Mercaraz ruled the eastern half of [[Geography/Alduria/Alduria]]: the portion drained by [[Geography/Alduria/Lake_Douradosa]] and [[Geography/Alduria/Montreva_River]], bounded by the [[Geography/Alduria/Ribadouro_Peaks]] and, to the west, the [[Geography/Alduria/Dunbrayne_Foothills|Dunbrayne Foothills]], where his lands meet Vegran's.
 
 ## Origins
 

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-10T19:53:25.937Z
-modified: 2026-09-10T19:53:25.937Z
+created: 2026-09-14T12:24:34.337Z
+modified: 2026-09-14T12:24:34.338Z
 tags:
   - deity
   - pantheon
@@ -28,12 +28,12 @@ Moves and thinks slowly, on a timescale closer to mountains eroding than anythin
 
 ## Worshippers
 
-- **Religion/Church:** [[Pantheon/Religions/]]
-- **Cults:** [[Pantheon/Cults/]]
+- **Religion/Church:** [[Pantheon/Religions/The_Still_Foundation|The Still Foundation]] _(defunct, isolated remnant worship survives)_
+- **Cults:** [[Pantheon/Cults/The_Petrified_Vow|The Petrified Vow]], [[Pantheon/Cults/The_Undermined|The Undermined]]
 
-## Canonical Lands
+## Territory
 
-Mgellzir's canonical lands are [[Political_Divisions/Laiqamore|Laiqamore]], the green, forested northeastern half of [[Geography/Bezmoria/Bezmoria]], on his side of the dividing [[Geography/Bezmoria/Zorayavan_Spine]].
+Mgellzir ruled over the green, forested northeastern half of [[Geography/Bezmoria/Bezmoria]], on his side of the dividing [[Geography/Bezmoria/Zorayavan_Spine]].
 
 ## Origins
 

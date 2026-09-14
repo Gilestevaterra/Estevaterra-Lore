@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-10T19:53:26.204Z
-modified: 2026-09-10T19:53:26.205Z
+created: 2026-09-14T12:24:34.696Z
+modified: 2026-09-14T12:24:34.696Z
 tags:
   - deity
   - pantheon
@@ -30,12 +30,12 @@ Vegran is actively seeking a way to return fully to the world. He works through 
 
 ## Worshippers
 
-- **Religion/Church:** [[Pantheon/Religions/]]
-- **Cults:** [[Pantheon/Cults/]]
+- **Religion/Church:** [[Pantheon/Religions/The_Last_Vigil|The Last Vigil]] _(defunct, isolated remnant worship survives)_
+- **Cults:** [[Pantheon/Cults/The_Unclosed_Circle|The Unclosed Circle]], [[Pantheon/Cults/The_Pale_Absolution|The Pale Absolution]]
 
-## Canonical Lands
+## Territory
 
-Vegran's canonical lands are the western half of the [[Political_Divisions/Kingdom_of_Yeripia/Kingdom_of_Yeripia|Kingdom of Yeripia]], on [[Geography/Alduria/Alduria]]: the portion drained by [[Geography/Alduria/Fjelling_Lake]] and [[Geography/Alduria/Ostavia_River]], bounded by [[Geography/Alduria/Glenmara_Mountains]]. This includes [[Political_Divisions/Kingdom_of_Yeripia/Preopia/Gidor_County/Barony_of_Mag_Beoga/Lostshade/Lostshade|Lostshade]] (in the [[Political_Divisions/Kingdom_of_Yeripia/Preopia/Gidor_County/Barony_of_Mag_Beoga/Barony_of_Mag_Beoga|Barony of Mag Beoga]]), the seat of his mortal-agent scheme: see Personality & Nature above and [[Modules/Missing_in_Lostshade/Missing_in_Lostshade_Overview]].
+Vegran ruled over the western half of [[Geography/Alduria/Alduria]]: the portion drained by [[Geography/Alduria/Fjelling_Lake]] and [[Geography/Alduria/Ostavia_River]], bounded by the [[Geography/Alduria/Glenmara_Mountains]] and, to the east, the [[Geography/Alduria/Dunbrayne_Foothills|Dunbrayne Foothills]], where his lands meet Mercaraz's.
 
 ## Origins
 

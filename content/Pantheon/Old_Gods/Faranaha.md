@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-10T19:53:25.117Z
-modified: 2026-09-10T19:53:25.117Z
+created: 2026-09-14T12:24:30.682Z
+modified: 2026-09-14T12:24:30.682Z
 tags:
   - deity
   - pantheon
@@ -28,12 +28,12 @@ Patient and slow to act, closer to a season changing than a person making a deci
 
 ## Worshippers
 
-- **Religion/Church:** [[Pantheon/Religions/]]
-- **Cults:** [[Pantheon/Cults/]]
+- **Religion/Church:** [[Pantheon/Religions/The_Verdant_Communion|The Verdant Communion]] _(defunct, isolated remnant worship survives)_
+- **Cults:** [[Pantheon/Cults/The_Withering_Choir|The Withering Choir]], [[Pantheon/Cults/The_Ripe_Circle|The Ripe Circle]]
 
-## Canonical Lands
+## Territory
 
-Faranaha's canonical lands are [[Political_Divisions/Crucaea|Crucaea]], the arid, volcanic southwestern half of [[Geography/Bezmoria/Bezmoria]], on her side of the dividing [[Geography/Bezmoria/Zorayavan_Spine]].
+Faranaha ruled over the arid, volcanic southwestern half of [[Geography/Bezmoria/Bezmoria]], on her side of the dividing [[Geography/Bezmoria/Zorayavan_Spine]].
 
 ## Origins
 

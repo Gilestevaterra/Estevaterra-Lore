@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-10T19:53:27.929Z
-modified: 2026-09-10T19:53:27.929Z
+created: 2026-09-14T01:09:25.209Z
+modified: 2026-09-14T01:09:25.210Z
 tags:
   - deity
   - pantheon
@@ -28,12 +28,12 @@ Thinks in doors and thresholds rather than fixed places, and doesn't stay anywhe
 
 ## Worshippers
 
-- **Religion/Church:** [[Pantheon/Religions/]]
+- **Religion/Church:** [[Pantheon/Religions/The_Threshold_Society|The Threshold Society]]
 - **Cults:** [[Pantheon/Cults/]]
 
 ## Origins
 
-_(New Gods only) How did this god come to exist?_
+Before she was Solum, she was Beatriz Windgate of Breotrasseon's Portuguese-speaking coast, and she was the one who actually drove the Riftspike into Mercaraz while Rodrigo Charmwind held the god's wound open beside her. She remembers the instant the rift opened better than anything else about that day: not Mercaraz being pulled through it, but the glimpse of what was on the other side, gone again before she could name it. Chasing that glimpse, and the doors it might still be hiding, is most of what Solum has done with her godhood since.
 
 ## Module Appearances
 

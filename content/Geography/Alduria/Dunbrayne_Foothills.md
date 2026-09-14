@@ -1,37 +1,32 @@
 ---
 publish: true
-created: 2026-09-13T18:52:21.073Z
-modified: 2026-09-13T18:52:21.073Z
+created: 2026-09-13T20:41:22.100Z
+modified: 2026-09-13T20:41:22.100Z
 tags:
   - geographic-feature
 ---
 
-# ⛰️ Lake Luserich
+# ⛰️ Dunbrayne Foothills
 
 **Status:** #draft
 
 ## At a Glance
 
-- **Type:** Lake
-- **Size/Scale:** Small
+- **Type:** Hills
+- **Size/Scale:**
 - **Climate:**
 
 ## Maps
 
 _All maps depicting this feature are listed automatically below — use [[_Templates/Template_Map]] to add one and link it here via the map's own Depicts section._
 
-- [[Maps/Kingdom_of_Yeripia_Map.md|Kingdom_of_Yeripia_Map]]
-
 ## Description
 
-A small lake in the mountains of [[Political_Divisions/Kingdom_of_Yeripia/Tiket/Tiket|Tiket]], just south of [[Political_Divisions/Kingdom_of_Yeripia/Tiket/Kisechov|Kisechov]]. The headwaters of the [[Geography/Alduria/Tortoise_River|Tortoise River]], which flows out of it southward.
+A low line of hills running down the interior of [[Geography/Alduria/Alduria]], marking the height of land between [[Geography/Alduria/Ostavia_River]]'s watershed to the west and [[Geography/Alduria/Montreva_River]]'s to the east. Rolling rather than sharp, more a long ridge than a true mountain range, feeding neither river system directly. This is the practical west/east divide of the continent, and the line separating [[Pantheon/Old_Gods/Vegran]]'s canonical lands from [[Pantheon/Old_Gods/Mercaraz]]'s.
 
 ## Political Divisions Overlapping
 
 _All political divisions linked to this feature are listed automatically below._
-
-- [[Political_Divisions/Kingdom_of_Yeripia/Tiket/Tiket.md|Tiket]]
-- [[Political_Divisions/Tiket.md|Tiket]]
 
 ## Notable Locations Within
 

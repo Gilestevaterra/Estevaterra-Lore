@@ -1,8 +1,8 @@
 ---
 publish: true
 title: World of Estevaterra
-created: 2026-09-12T16:32:51.825Z
-modified: 2026-09-13T18:08:16.833Z
+created: 2026-09-13T18:52:21.972Z
+modified: 2026-09-13T18:52:21.973Z
 ---
 
 # 🌍 World Overview
@@ -30,7 +30,7 @@ _Dominant factions, empires, and forces.
 
 ## Geography in Brief
 
-_The shape of the world. Full detail: [[Political_Divisions/_Political_Divisions_Index]] and [[Geography/_Features_Index]]._
+_The shape of the world. Full detail: [[Political_Divisions/_Political_Divisions_Index]] and [[Geography/Geography of Estevaterra|Geography]]._
 
 ## Naming Conventions
 

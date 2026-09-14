@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-10T19:53:24.841Z
-modified: 2026-09-12T20:28:23.248Z
+created: 2026-09-14T12:24:30.366Z
+modified: 2026-09-14T12:24:30.366Z
 tags:
   - deity
   - pantheon
@@ -28,12 +28,12 @@ Volatile and quick to burn through her own moods, calm one moment and raging the
 
 ## Worshippers
 
-- **Religion/Church:** [[Pantheon/Religions/]]
-- **Cults:** [[Pantheon/Cults/]]
+- **Religion/Church:** [[Pantheon/Religions/The_Ember_Covenant|The Ember Covenant]] _(defunct, isolated remnant worship survives)_
+- **Cults:** [[Pantheon/Cults/The_Cinderborn|The Cinderborn]], [[Pantheon/Cults/Emberkeepers_of_the_Fallen_Throne|Emberkeepers of the Fallen Throne]]
 
-## Canonical Lands
+## Territory
 
-Avaretal's canonical lands are the [[Slaecaea_Islands|Slaecaea Islands]], the [[Vraediris|Isle of Vraediris]], [[Geography/Sea_of_Leeronto/Haidonia|Haidonia]], and the small islands scattered through the [[Geography/Tisver_Ocean/Tisver_Ocean|Tisver Ocean]], the [[Geography/Sea_of_Leeronto/Sea_of_Leeronto|Sea of Leeronto]], and the [[Geography/Tisver_Ocean/Rigesonne_Depths|Rigesonne Depths]]. [[Qalb_Al-Rimal]], on the Isle of Vraediris, falls within her lands: the city's own old gods, cast out once its people learned to wield magic themselves, were her worshippers and servants there.
+Avaretal ruled over the [[Slaecaea_Islands|Slaecaea Islands]], the [[Vraediris|Isle of Vraediris]], [[Geography/Sea_of_Leeronto/Haidonia|Haidonia]], and the small islands scattered through the [[Geography/Tisver_Ocean/Tisver_Ocean|Tisver Ocean]], the [[Geography/Sea_of_Leeronto/Sea_of_Leeronto|Sea of Leeronto]], and the [[Geography/Tisver_Ocean/Rigesonne_Depths|Rigesonne Depths]]. [[Qalb_Al-Rimal]], on the Isle of Vraediris, was the seat of her power.
 
 ## Origins
 

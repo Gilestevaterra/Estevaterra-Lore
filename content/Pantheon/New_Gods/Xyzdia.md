@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-10T19:53:28.461Z
-modified: 2026-09-10T19:53:28.461Z
+created: 2026-09-14T01:09:25.836Z
+modified: 2026-09-14T01:09:25.837Z
 tags:
   - deity
   - pantheon
@@ -28,13 +28,13 @@ Treats truth as something flexible rather than fixed, more interested in what pe
 
 ## Worshippers
 
-- **Religion/Church:** [[Pantheon/Religions/]]
+- **Religion/Church:** [[Pantheon/Religions/The_Order_of_the_Radiant_Light|The Order of the Radiant Light]]
 - **Cults:** [[Pantheon/Cults/]]
 - **Temples:** [[Political_Divisions/Kingdom_of_Yeripia/Dushua/Egnatia/Egnatia_Temple_of_the_Radiant_Light]] in [[Political_Divisions/Kingdom_of_Yeripia/Dushua/Egnatia/Egnatia]]
 
 ## Origins
 
-_(New Gods only) How did this god come to exist?_
+Before she was Xyzdia, she was Indah Glasswave of the [[Geography/Kalantawi Islands/Kalantawi_Islands|Kalantawi Islands]], and she stood beside Nomvula Tideweaver when they cast [[Pantheon/Old_Gods/Haviktla]] out together. What Indah remembers of that day, when she chooses to say anything about it at all, is the water throwing back a hundred broken reflections of her own face in the moment the rift tore open, each one a little different from the last. She's never fully explained why that's the image that stuck, becoming Xyzdia rather than something else entirely, and it's the kind of question she seems to enjoy leaving unanswered.
 
 ## Module Appearances
 
