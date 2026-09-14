@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T01:09:25.527Z
-modified: 2026-09-14T01:09:25.527Z
+created: 2026-09-14T18:49:09.290Z
+modified: 2026-09-14T18:49:09.290Z
 tags:
   - deity
   - pantheon
@@ -10,7 +10,6 @@ tags:
 # ✨ Dheerin
 
 _The Many Faced_
-**Status:** #draft / #reviewed
 
 ## Identity
 

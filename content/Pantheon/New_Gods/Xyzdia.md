@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T01:09:25.836Z
-modified: 2026-09-14T01:09:25.837Z
+created: 2026-09-14T18:49:09.598Z
+modified: 2026-09-14T18:49:09.598Z
 tags:
   - deity
   - pantheon
@@ -10,7 +10,6 @@ tags:
 # ✨ Xyzdia
 
 _The Glimmer_
-**Status:** #draft / #reviewed
 
 ## Identity
 

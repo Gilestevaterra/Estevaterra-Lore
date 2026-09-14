@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T01:09:26.147Z
-modified: 2026-09-14T01:09:26.148Z
+created: 2026-09-14T18:49:09.894Z
+modified: 2026-09-14T18:49:09.895Z
 tags:
   - deity
   - pantheon
@@ -10,7 +10,6 @@ tags:
 # ✨ Valtor
 
 _The Unbroken_
-**Status:** #draft / #reviewed
 
 ## Identity
 

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T12:24:34.012Z
-modified: 2026-09-14T12:24:34.012Z
+created: 2026-09-14T18:49:07.752Z
+modified: 2026-09-14T18:49:07.753Z
 tags:
   - deity
   - pantheon
@@ -10,7 +10,6 @@ tags:
 # ✨ Mercaraz
 
 _Overlord of the Sky_
-**Status:** #draft / #reviewed
 
 ## Identity
 
@@ -21,30 +20,3 @@ _Overlord of the Sky_
 ## Appearance & Manifestation
 
 Mercaraz is a massive four-winged raptor, somewhere between an eagle and a slim feathered dragon. His wingspan is big enough to shadow a whole city when he spreads them fully. The top two wings are shimmering white feathers, and the bottom two are made of storm cloud, trailing rain and snapping with small bolts of lightning. His beak is hooked and made of clear sapphire. Two curved, see-through horns sweep back from his head with a crackle of living lightning flickering between them. His eyes are silver and gold, sharp enough to spot one leaf moving from the edge of space. His legs are long and powerful, ending in four-toed talons.
-
-## Personality & Nature
-
-Proud and territorial, and sees the sky as his alone to rule. Values freedom of movement, especially his own, and has little patience for anything that tries to cage or ground him. Watches the world from a distance, missing very little, and prefers to strike suddenly like a storm rather than announce himself first. Respects sharp instincts in others and looks down on anyone who stays cautious out of fear.
-
-## Worshippers
-
-- **Religion/Church:** [[Pantheon/Religions/The_High_Current|The High Current]] _(defunct, isolated remnant worship survives)_
-- **Cults:** [[Pantheon/Cults/The_Sky-Shedders|The Sky-Shedders]], [[Pantheon/Cults/The_Storm_Talons|The Storm Talons]]
-
-## Territory
-
-Mercaraz ruled the eastern half of [[Geography/Alduria/Alduria]]: the portion drained by [[Geography/Alduria/Lake_Douradosa]] and [[Geography/Alduria/Montreva_River]], bounded by the [[Geography/Alduria/Ribadouro_Peaks]] and, to the west, the [[Geography/Alduria/Dunbrayne_Foothills|Dunbrayne Foothills]], where his lands meet Vegran's.
-
-## Origins
-
-_(New Gods only) How did this god come to exist?_
-
-## Module Appearances
-
-| Module | Status | Key Details |
-|--------|--------|-------------|
-| | | |
-
----
-
-\*Tags: #deity #pantheon*

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-14T01:09:26.816Z
-modified: 2026-09-14T01:09:26.817Z
+modified: 2026-09-14T18:33:13.362Z
 tags:
   - deity
   - pantheon
@@ -10,7 +10,6 @@ tags:
 # ✨ Aradia
 
 _The Pale Master_
-**Status:** #draft / #reviewed
 
 ## Identity
 

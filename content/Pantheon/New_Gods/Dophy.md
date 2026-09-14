@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T01:09:26.449Z
-modified: 2026-09-14T01:09:26.449Z
+created: 2026-09-14T18:49:10.199Z
+modified: 2026-09-14T18:49:10.199Z
 tags:
   - deity
   - pantheon
@@ -10,7 +10,6 @@ tags:
 # ✨ Dophy
 
 _The Fate-Spinner_
-**Status:** #draft / #reviewed
 
 ## Identity
 

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T01:09:24.537Z
-modified: 2026-09-14T01:09:24.537Z
+created: 2026-09-14T18:49:08.393Z
+modified: 2026-09-14T18:49:08.393Z
 tags:
   - deity
   - pantheon
@@ -10,7 +10,6 @@ tags:
 # ✨ Kogeros
 
 _The Catalyst_
-**Status:** #draft / #reviewed
 
 ## Identity
 

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T01:09:25.209Z
-modified: 2026-09-14T01:09:25.210Z
+created: 2026-09-14T18:49:09.001Z
+modified: 2026-09-14T18:49:09.001Z
 tags:
   - deity
   - pantheon
@@ -10,7 +10,6 @@ tags:
 # ✨ Solum
 
 _The Gate Queen_
-**Status:** #draft / #reviewed
 
 ## Identity
 

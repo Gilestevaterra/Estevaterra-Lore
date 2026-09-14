@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T01:09:24.884Z
-modified: 2026-09-14T01:09:24.885Z
+created: 2026-09-14T18:49:08.695Z
+modified: 2026-09-14T18:49:08.695Z
 tags:
   - deity
   - pantheon
@@ -10,7 +10,6 @@ tags:
 # ✨ Galaphorus
 
 _The Sovereign of Smiles_
-**Status:** #draft / #reviewed
 
 ## Identity
 
