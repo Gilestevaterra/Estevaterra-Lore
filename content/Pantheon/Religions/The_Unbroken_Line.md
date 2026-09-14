@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T19:54:13.810Z
-modified: 2026-09-14T19:54:13.810Z
+created: 2026-09-14T20:14:31.060Z
+modified: 2026-09-14T20:14:31.060Z
 tags:
   - religion
   - pantheon
@@ -35,9 +35,3 @@ Members are guards, soldiers, and militia who take Valtor's own creed as a perso
 _Pin the most important NPCs here manually._
 
 - [[Characters/NPCs/]], _role/rank_
-
-<span style="font-size: 1.3em; font-weight: 700;">All Associated NPCs</span>
-
-<span style="font-size: 1.5em; font-weight: 700;">Relationship with Factions & Power</span>
-
-- **Allied Factions:** [[Factions/]]

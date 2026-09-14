@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T19:54:13.245Z
-modified: 2026-09-14T19:54:13.245Z
+created: 2026-09-14T20:14:30.486Z
+modified: 2026-09-14T20:14:30.486Z
 tags:
   - religion
   - pantheon
@@ -35,9 +35,3 @@ Where the old [[Pantheon/Religions/The_Last_Vigil|Last Vigil]] once kept watch o
 _Pin the most important NPCs here manually._
 
 - [[Characters/NPCs/]], _role/rank_
-
-<span style="font-size: 1.3em; font-weight: 700;">All Associated NPCs</span>
-
-<span style="font-size: 1.5em; font-weight: 700;">Relationship with Factions & Power</span>
-
-- **Allied Factions:** [[Factions/]]

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T19:54:13.531Z
-modified: 2026-09-14T19:54:13.531Z
+created: 2026-09-14T20:14:30.763Z
+modified: 2026-09-14T20:14:30.763Z
 tags:
   - religion
   - pantheon
@@ -35,9 +35,3 @@ Keeps its deepest roots in Crucaea, where Dophy was born Meera Suncaller. Its ci
 _Pin the most important NPCs here manually._
 
 - [[Characters/NPCs/]], _role/rank_
-
-<span style="font-size: 1.3em; font-weight: 700;">All Associated NPCs</span>
-
-<span style="font-size: 1.5em; font-weight: 700;">Relationship with Factions & Power</span>
-
-- **Allied Factions:** [[Factions/]]

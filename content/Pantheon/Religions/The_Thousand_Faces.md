@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T19:54:14.446Z
-modified: 2026-09-14T19:54:14.447Z
+created: 2026-09-14T20:14:31.640Z
+modified: 2026-09-14T20:14:31.641Z
 tags:
   - religion
   - pantheon
@@ -35,9 +35,3 @@ Organized in troupes and workshops that turn up wherever the craft is practiced 
 _Pin the most important NPCs here manually._
 
 - [[Characters/NPCs/]], _role/rank_
-
-<span style="font-size: 1.3em; font-weight: 700;">All Associated NPCs</span>
-
-<span style="font-size: 1.5em; font-weight: 700;">Relationship with Factions & Power</span>
-
-- **Allied Factions:** [[Factions/]]

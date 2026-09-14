@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T19:54:12.944Z
-modified: 2026-09-14T19:54:12.944Z
+created: 2026-09-14T20:14:30.221Z
+modified: 2026-09-14T20:14:30.221Z
 tags:
   - deity
   - pantheon
@@ -30,16 +30,3 @@ Carries herself like someone who's seen the ending of every conversation before 
 - **Religion/Church:** [[Pantheon/Religions/The_Silver_Skein|The Silver Skein]]
 - **Cults:** [[Pantheon/Cults/]]
 - **Known Temples:** [[Political_Divisions/Kingdom_of_Yeripia/Dushua/Egnatia/The_Silver_Pinnacle]] in [[Political_Divisions/Kingdom_of_Yeripia/Dushua/Egnatia/Egnatia]] — a healing-services temple, per Shane. _(Note: healing services are an unusual fit for Dophy's Divination domain as currently written; recorded as given, not treated as a conflict to resolve.)_
-
-<span style="font-size: 1.5em; font-weight: 700;">Origins</span>
-Before she was Dophy, she was Meera Suncaller of Crucaea, and her Falling was the gentlest of the six: [[Pantheon/Old_Gods/Faranaha]] barely resisted at all, as though she'd already seen how it would end. Something of that sight seemed to pass to Meera in the blood before her own transformation had even finished remaking her, an early, unfinished flicker of the second sight that would come to define her as Dophy. Her original face is still visible at the center of what she became, and she still remembers being mortal well enough that every thread she now cuts short costs her something, even when the weave requires it.
-
-<span style="font-size: 1.5em; font-weight: 700;">Module Appearances</span>
-
-| Module | Status | Key Details |
-|--------|--------|-------------|
-| | | |
-
----
-
-\*Tags: #deity #pantheon*

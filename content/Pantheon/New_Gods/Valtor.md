@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T19:54:12.622Z
-modified: 2026-09-14T19:54:12.622Z
+created: 2026-09-14T20:14:29.952Z
+modified: 2026-09-14T20:14:29.952Z
 tags:
   - deity
   - pantheon
@@ -29,16 +29,3 @@ Steady and unshakeable, closer to a wall than a person in temperament. Values de
 
 - **Religion/Church:** [[Pantheon/Religions/The_Unbroken_Line|The Unbroken Line]]
 - **Cults:** [[Pantheon/Cults/]]
-
-<span style="font-size: 1.5em; font-weight: 700;">Origins</span>
-Before he was Valtor, he was Bogdan Kamenov of Laiqamore, and his casting against [[Pantheon/Old_Gods/Mgellzir]] was the hardest of the six. Mgellzir's flesh was closer to living stone than anything the Riftspike had been driven into before, and Bogdan spent longer under the Old God's blows than any caster before or after him, absorbing punishment that would have killed an ordinary man outright. Whatever the transformation carried forward from that ordeal, it left Valtor built never to take a hit so directly again: his current form scatters force across a thousand shifting plates rather than simply enduring it, as if some part of him is still bracing for a blow that never quite lands the same way twice.
-
-<span style="font-size: 1.5em; font-weight: 700;">Module Appearances</span>
-
-| Module | Status | Key Details |
-|--------|--------|-------------|
-| | | |
-
----
-
-\*Tags: #deity #pantheon*

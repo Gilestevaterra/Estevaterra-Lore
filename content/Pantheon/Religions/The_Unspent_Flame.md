@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T19:54:14.727Z
-modified: 2026-09-14T19:54:14.727Z
+created: 2026-09-14T20:14:31.900Z
+modified: 2026-09-14T20:14:31.900Z
 tags:
   - religion
   - pantheon
@@ -35,9 +35,3 @@ The Flame draws its following from evocation mages, artisans, laborers, and anyo
 _Pin the most important NPCs here manually._
 
 - [[Characters/NPCs/]], _role/rank_
-
-<span style="font-size: 1.3em; font-weight: 700;">All Associated NPCs</span>
-
-<span style="font-size: 1.5em; font-weight: 700;">Relationship with Factions & Power</span>
-
-- **Allied Factions:** [[Factions/]]
