@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T18:49:06.925Z
-modified: 2026-09-14T18:49:06.926Z
+created: 2026-09-14T19:54:09.121Z
+modified: 2026-09-14T19:54:09.121Z
 tags:
   - deity
   - pantheon

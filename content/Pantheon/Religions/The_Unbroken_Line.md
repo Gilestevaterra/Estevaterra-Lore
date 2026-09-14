@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T18:49:11.072Z
-modified: 2026-09-14T18:49:11.073Z
+created: 2026-09-14T19:54:13.810Z
+modified: 2026-09-14T19:54:13.810Z
 tags:
   - religion
   - pantheon
@@ -36,26 +36,8 @@ _Pin the most important NPCs here manually._
 
 - [[Characters/NPCs/]], _role/rank_
 
-### All Associated NPCs
+<span style="font-size: 1.3em; font-weight: 700;">All Associated NPCs</span>
 
-## Relationship with Factions & Power
+<span style="font-size: 1.5em; font-weight: 700;">Relationship with Factions & Power</span>
 
 - **Allied Factions:** [[Factions/]]
-
-## Temples & Holy Sites
-
-_All temples and holy sites linked to this religion are listed automatically below._
-
-## History
-
-Grown up around Valtor since his transformation, strongest among soldiers and guards who've adopted his own hard-won creed as their own.
-
-## Module Appearances
-
-| Module | Status | Key Details |
-|--------|--------|-------------|
-| | | |
-
----
-
-\*Tags: #religion #pantheon*

@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T18:49:09.598Z
-modified: 2026-09-14T18:49:09.598Z
+created: 2026-09-14T19:54:12.256Z
+modified: 2026-09-14T19:54:12.256Z
 tags:
   - deity
   - pantheon
@@ -31,11 +31,10 @@ Treats truth as something flexible rather than fixed, more interested in what pe
 - **Cults:** [[Pantheon/Cults/]]
 - **Temples:** [[Political_Divisions/Kingdom_of_Yeripia/Dushua/Egnatia/Egnatia_Temple_of_the_Radiant_Light]] in [[Political_Divisions/Kingdom_of_Yeripia/Dushua/Egnatia/Egnatia]]
 
-## Origins
-
+<span style="font-size: 1.5em; font-weight: 700;">Origins</span>
 Before she was Xyzdia, she was Indah Glasswave of the [[Geography/Kalantawi Islands/Kalantawi_Islands|Kalantawi Islands]], and she stood beside Nomvula Tideweaver when they cast [[Pantheon/Old_Gods/Haviktla]] out together. What Indah remembers of that day, when she chooses to say anything about it at all, is the water throwing back a hundred broken reflections of her own face in the moment the rift tore open, each one a little different from the last. She's never fully explained why that's the image that stuck, becoming Xyzdia rather than something else entirely, and it's the kind of question she seems to enjoy leaving unanswered.
 
-## Module Appearances
+<span style="font-size: 1.5em; font-weight: 700;">Module Appearances</span>
 
 | Module | Status | Key Details |
 |--------|--------|-------------|

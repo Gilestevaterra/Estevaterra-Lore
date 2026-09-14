@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T18:49:08.695Z
-modified: 2026-09-14T18:49:08.695Z
+created: 2026-09-14T19:54:11.316Z
+modified: 2026-09-14T19:54:11.317Z
 tags:
   - deity
   - pantheon
@@ -30,11 +30,10 @@ Charming in a way that never quite feels sincere, pleasant on the surface with n
 - **Religion/Church:** [[Pantheon/Religions/The_Gilded_Court|The Gilded Court]]
 - **Cults:** [[Pantheon/Cults/]]
 
-## Origins
-
+<span style="font-size: 1.5em; font-weight: 700;">Origins</span>
 Before he was Galaphorus, he was Rodrigo Charmwind of Breotrasseon's Spanish-speaking coast, and he needed a partner to bring down [[Pantheon/Old_Gods/Mercaraz]]. Mercaraz reacted to Avaretal's Fall almost before Kogeros could explain what she was proposing, striking fast and from the air the way he always had, and no single caster could keep pace with him alone. Rodrigo held the wound open while the woman who would become Solum drove the Riftspike home. What Mercaraz's blood left in Rodrigo was a gift for being wanted, for filling a room the way the god had once filled the sky, though little of Mercaraz's own pride survived the transformation in any form Rodrigo would recognize as his.
 
-## Module Appearances
+<span style="font-size: 1.5em; font-weight: 700;">Module Appearances</span>
 
 | Module | Status | Key Details |
 |--------|--------|-------------|

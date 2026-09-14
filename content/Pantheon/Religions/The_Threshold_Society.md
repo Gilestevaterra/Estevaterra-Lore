@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T18:49:12.229Z
-modified: 2026-09-14T18:49:12.230Z
+created: 2026-09-14T19:54:15.036Z
+modified: 2026-09-14T19:54:15.036Z
 tags:
   - religion
   - pantheon
@@ -36,26 +36,8 @@ _Pin the most important NPCs here manually._
 
 - [[Characters/NPCs/]], _role/rank_
 
-### All Associated NPCs
+<span style="font-size: 1.3em; font-weight: 700;">All Associated NPCs</span>
 
-## Relationship with Factions & Power
+<span style="font-size: 1.5em; font-weight: 700;">Relationship with Factions & Power</span>
 
 - **Allied Factions:** [[Factions/]]
-
-## Temples & Holy Sites
-
-_All temples and holy sites linked to this religion are listed automatically below._
-
-## History
-
-Grown up around Solum since her transformation, taking her own creed (an open door kept, not a temple built to stay) literally from the start.
-
-## Module Appearances
-
-| Module | Status | Key Details |
-|--------|--------|-------------|
-| | | |
-
----
-
-\*Tags: #religion #pantheon*
