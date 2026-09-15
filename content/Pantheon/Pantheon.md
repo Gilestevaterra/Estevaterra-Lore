@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-13T21:33:20.897Z
-modified: 2026-09-14T16:14:56.663Z
+created: 2026-09-14T20:36:42.442Z
+modified: 2026-09-14T20:36:42.442Z
 ---
 
 # 🏛️ Pantheon Overview
