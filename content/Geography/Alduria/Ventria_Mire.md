@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-12T12:26:51.994Z
-modified: 2026-09-12T12:26:51.994Z
+modified: 2026-09-15T13:37:08.579Z
 tags:
   - geographic-feature
 ---
@@ -32,7 +32,6 @@ _All political divisions linked to this feature are listed automatically below._
 
 - [[Political_Divisions/Kingdom_of_Yeripia/Mathium/Mathium.md|Mathium]]
 - [[Political_Divisions/Kingdom_of_Yeripia/Tiket/Tiket.md|Tiket]]
-- [[Political_Divisions/Tiket.md|Tiket]]
 
 ## Notable Locations Within
 

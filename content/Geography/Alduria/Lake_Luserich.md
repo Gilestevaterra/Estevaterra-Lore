@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-13T18:52:21.073Z
-modified: 2026-09-13T18:52:21.073Z
+modified: 2026-09-15T13:36:54.829Z
 tags:
   - geographic-feature
 ---
@@ -31,7 +31,6 @@ A small lake in the mountains of [[Political_Divisions/Kingdom_of_Yeripia/Tiket/
 _All political divisions linked to this feature are listed automatically below._
 
 - [[Political_Divisions/Kingdom_of_Yeripia/Tiket/Tiket.md|Tiket]]
-- [[Political_Divisions/Tiket.md|Tiket]]
 
 ## Notable Locations Within
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-12T12:26:51.351Z
-modified: 2026-09-12T12:26:51.351Z
+modified: 2026-09-15T13:36:59.810Z
 tags:
   - geographic-feature
 ---
@@ -33,7 +33,6 @@ _All political divisions linked to this feature are listed automatically below._
 - [[Political_Divisions/Kingdom_of_Yeripia/Aprea/Aprea.md|Aprea]]
 - [[Political_Divisions/Kingdom_of_Yeripia/Dushua/Dushua.md|Dushua]]
 - [[Political_Divisions/Kingdom_of_Yeripia/Tiket/Tiket.md|Tiket]]
-- [[Political_Divisions/Tiket.md|Tiket]]
 
 ## Notable Locations Within
 
