@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-15T13:12:53.371Z
-modified: 2026-09-15T13:12:53.371Z
+modified: 2026-09-15T13:33:13.171Z
 tags:
   - political-division
 ---
@@ -19,7 +19,9 @@ tags:
 
 **Yeripia has 7 provinces: Preopia, Dushua, Aprea, Swauz Glon, Tiket, Utrye, and Mathium.**
 
-Yeripia has been at war with [[Political_Divisions/Laiqamore]] for as long as anyone can remember.
+Objectively, the Kingdom of Yeripia is the most prosperous nation in Estevaterra. It benefits from a temperate climate and large amounts of fertile land and forests to supply what its people need. While individuals may have their own trials and challenges, the people are largely happy and supportive of the rule of their King and Queen.
+
+Yeripia has been at war with [[Political_Divisions/Laiqamore]] for as long as anyone can remember, though it is closer to a cold war without many major battles. Only skirmishes across the isthmus connecting their continents.
 
 ## History
 
