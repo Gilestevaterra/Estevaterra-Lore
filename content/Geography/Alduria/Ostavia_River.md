@@ -28,7 +28,6 @@ Flows from [[Geography/Alduria/Fjelling_Lake]] south through [[Political_Divisio
 
 _All political divisions linked to this feature are listed automatically below._
 
-- [[Political_Divisions/Kingdom_of_Yeripia.md|Kingdom_of_Yeripia]]
 - [[Political_Divisions/Kingdom_of_Yeripia/Kingdom_of_Yeripia.md|Kingdom_of_Yeripia]]
 
 ## Notable Locations Within

@@ -52,7 +52,6 @@ _Everything nested under this feature's own folder — mountain ranges, rivers, 
 _All political divisions linked to this feature are listed automatically below._
 
 - [[Political_Divisions/Breotrasseon.md|Breotrasseon]]
-- [[Political_Divisions/Kingdom_of_Yeripia.md|Kingdom_of_Yeripia]]
 - [[Political_Divisions/Kingdom_of_Yeripia/Kingdom_of_Yeripia.md|Kingdom_of_Yeripia]]
 
 ## Notable Locations Within

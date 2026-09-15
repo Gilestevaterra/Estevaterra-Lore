@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-09-14T12:24:24.255Z
-modified: 2026-09-14T18:54:38.705Z
+created: 2026-09-14T20:14:32.492Z
+modified: 2026-09-15T01:24:01.072Z
 tags:
   - religion
   - pantheon
@@ -35,27 +35,3 @@ A loose, shifting circle of courtiers, performers, and the occasional confidence
 _Pin the most important NPCs here manually._
 
 - [[Characters/NPCs/]], _role/rank_
-
-### All Associated NPCs
-
-## Relationship with Factions & Power
-
-- **Allied Factions:** [[Factions/]]
-
-## Temples & Holy Sites
-
-_All temples and holy sites linked to this religion are listed automatically below._
-
-## History
-
-Grown up around Galaphorus since his transformation, deliberately keeping no fixed seat so it can move with wherever influence currently gathers.
-
-## Module Appearances
-
-| Module | Status | Key Details |
-|--------|--------|-------------|
-| | | |
-
----
-
-\*Tags: #religion #pantheon*

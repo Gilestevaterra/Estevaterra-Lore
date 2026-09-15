@@ -28,7 +28,6 @@ Wraps along the northern edge and down the western coast of [[Geography/Alduria/
 
 _All political divisions linked to this feature are listed automatically below._
 
-- [[Political_Divisions/Kingdom_of_Yeripia.md|Kingdom_of_Yeripia]]
 - [[Political_Divisions/Kingdom_of_Yeripia/Kingdom_of_Yeripia.md|Kingdom_of_Yeripia]]
 
 ## Notable Locations Within
